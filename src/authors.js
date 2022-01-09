@@ -33,3 +33,8 @@ export const simonswiss = {
   twitter: 'simonswiss',
   avatar: simonswissAvatar,
 }
+
+export const jiyoung = {
+  name: 'Park Ji Young',
+  twitter: 'noop',
+}
