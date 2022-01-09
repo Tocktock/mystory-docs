@@ -3,6 +3,7 @@ import bradlcAvatar from './img/bradlc.jpg'
 import steveschogerAvatar from './img/steveschoger.jpg'
 import robinmalfaitAvatar from './img/robinmalfait.jpg'
 import simonswissAvatar from './img/simonswiss.jpg'
+import manyangAvatar from './img/manyang.jpg'
 
 export const adamwathan = {
   name: 'Adam Wathan',
@@ -34,7 +35,8 @@ export const simonswiss = {
   avatar: simonswissAvatar,
 }
 
-export const jiyoung = {
-  name: 'Park Ji Young',
+export const manyang = {
+  name: 'Manyang',
   twitter: 'noop',
+  avatar: manyangAvatar,
 }
